@@ -1,11 +1,11 @@
 ## a skeleton project for a simple task management tool
 
 ### sections of the tool
-    - ** Task Creation**: Users should be able to create a new task with a title and perhaps a brief description.
-    - ** Task List**: Users should be able to view a list of all their tasks. Ideally, this list would update in real-time as tasks are added, modified, or removed.
-    - ** Task Modification**: Users should be able to update the details of a task after it's been created, such as changing its title or description.
-    - ** Task Completion**: Users should be able to mark a task as completed. Completed tasks might be moved to a separate list or crossed off in the main list.
-    - ** Task Deletion**: Users should be able to delete a task when it's no longer needed.
+    - **Task Creation**: Users should be able to create a new task with a title and perhaps a brief description.
+    - **Task List**: Users should be able to view a list of all their tasks. Ideally, this list would update in real-time as tasks are added, modified, or removed.
+    - **Task Modification**: Users should be able to update the details of a task after it's been created, such as changing its title or description.
+    - **Task Completion**: Users should be able to mark a task as completed. Completed tasks might be moved to a separate list or crossed off in the main list.
+    - **Task Deletion**: Users should be able to delete a task when it's no longer needed.
 
 
 
